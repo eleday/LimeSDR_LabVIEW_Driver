@@ -11,7 +11,7 @@
 	<Item Name="LMS_Close.vi" Type="VI" URL="../LMS_Close.vi"/>
 	<Item Name="LMS_DestroyStream.vi" Type="VI" URL="../LMS_DestroyStream.vi"/>
 	<Item Name="LMS_EnableChannel.vi" Type="VI" URL="../LMS_EnableChannel.vi"/>
-	<Item Name="LMS_Example.vi" Type="VI" URL="../LMS_Example.vi"/>
+	<Item Name="LMS_FM_Demodulate_Example.vi" Type="VI" URL="../LMS_FM_Demodulate_Example.vi"/>
 	<Item Name="LMS_GetDeviceList.vi" Type="VI" URL="../LMS_GetDeviceList.vi"/>
 	<Item Name="LMS_GetLPFBWRange.vi" Type="VI" URL="../LMS_GetLPFBWRange.vi"/>
 	<Item Name="LMS_GetSampleRate.vi" Type="VI" URL="../LMS_GetSampleRate.vi"/>
