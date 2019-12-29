@@ -8,18 +8,24 @@
 
 </Property>
 	<Item Name="Example" Type="Folder">
+		<Item Name="LimeSDR_BandWidth_Tx_LabVIEW_V1.1.vi" Type="VI" URL="../Example/LimeSDR_BandWidth_Tx_LabVIEW_V1.1.vi"/>
+		<Item Name="LimeSDR_FM_Tx_LabVIEW.vi" Type="VI" URL="../Example/LimeSDR_FM_Tx_LabVIEW.vi"/>
+		<Item Name="LimeSDR_TwoTone_Tx_LabVIEW_V1.0.vi" Type="VI" URL="../Example/LimeSDR_TwoTone_Tx_LabVIEW_V1.0.vi"/>
+		<Item Name="LimeSDR_TwoTone_Tx_LabVIEW_V1.1.vi" Type="VI" URL="../Example/LimeSDR_TwoTone_Tx_LabVIEW_V1.1.vi"/>
 		<Item Name="LMS_FM_Demodulate_Example.vi" Type="VI" URL="../Example/LMS_FM_Demodulate_Example.vi"/>
 	</Item>
 	<Item Name="LMS_Calibrate.vi" Type="VI" URL="../LMS_Calibrate.vi"/>
 	<Item Name="LMS_Close.vi" Type="VI" URL="../LMS_Close.vi"/>
 	<Item Name="LMS_DestroyStream.vi" Type="VI" URL="../LMS_DestroyStream.vi"/>
 	<Item Name="LMS_EnableChannel.vi" Type="VI" URL="../LMS_EnableChannel.vi"/>
+	<Item Name="LMS_EnableTxWFM.vi" Type="VI" URL="../LMS_EnableTxWFM.vi"/>
 	<Item Name="LMS_GetDeviceList.vi" Type="VI" URL="../LMS_GetDeviceList.vi"/>
 	<Item Name="LMS_GetLPFBWRange.vi" Type="VI" URL="../LMS_GetLPFBWRange.vi"/>
 	<Item Name="LMS_GetSampleRate.vi" Type="VI" URL="../LMS_GetSampleRate.vi"/>
 	<Item Name="LMS_Init.vi" Type="VI" URL="../LMS_Init.vi"/>
 	<Item Name="LMS_Open.vi" Type="VI" URL="../LMS_Open.vi"/>
 	<Item Name="LMS_RecvStream.vi" Type="VI" URL="../LMS_RecvStream.vi"/>
+	<Item Name="LMS_SendStream.vi" Type="VI" URL="../LMS_SendStream.vi"/>
 	<Item Name="LMS_Set_Digital_LPFBW.vi" Type="VI" URL="../LMS_Set_Digital_LPFBW.vi"/>
 	<Item Name="LMS_SetAntenna.vi" Type="VI" URL="../LMS_SetAntenna.vi"/>
 	<Item Name="LMS_SetGaindB.vi" Type="VI" URL="../LMS_SetGaindB.vi"/>
@@ -30,4 +36,5 @@
 	<Item Name="LMS_SetupStream.vi" Type="VI" URL="../LMS_SetupStream.vi"/>
 	<Item Name="LMS_StartStream.vi" Type="VI" URL="../LMS_StartStream.vi"/>
 	<Item Name="LMS_StopStream.vi" Type="VI" URL="../LMS_StopStream.vi"/>
+	<Item Name="LMS_UploadWFM.vi" Type="VI" URL="../LMS_UploadWFM.vi"/>
 </Library>
